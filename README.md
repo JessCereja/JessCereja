@@ -1,4 +1,4 @@
-<h1 align="center">🍒Jessica Cereja || JessCereja🍒</h1>
+<h1 align="center">🍒Jessica Cristina || JessCereja🍒</h1>
 
 <div align="center">
   <a href="https://github.com/jesscereja">
