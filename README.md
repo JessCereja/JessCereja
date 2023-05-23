@@ -12,7 +12,7 @@
    <img align="center" alt="HTML" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195156746-82de51ba-c2c5-4af2-9b25-9c8374fe6dc0.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195156749-00fb1a18-4690-44c9-9d6d-816825bdef85.svg">
    <img align="center" alt="JavaScript" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195156744-8a21399b-f952-4765-b03c-c5feeb2c5fbe.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195156750-24454fdb-0a52-4a7d-9eaa-bd8189fe5542.svg">
+   <img align="center" alt="Angular" height="30" width="40" src="https://img.icons8.com/fluency/48/angularjs.png">
  </div>
   
  <div align="center">
