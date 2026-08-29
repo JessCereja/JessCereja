@@ -1,37 +1,97 @@
-<h1 align="center">🍒Jessica Cristina || JessCereja🍒</h1>
+# 🍒 Olá, eu sou a Jéssica Cristina!
 
-<div align="center">
-  <a href="https://github.com/jesscereja">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessCereja&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessCereja&layout=compact&langs_count=7&theme=aura_dark"/>
-</div>
+### Suporte Técnico | Cloud & AWS | Linux & Redes
 
- <div align="center">
-   <h2>Frontend</h2>
-   <img align="center" alt="GIT" height="30px" width="40px" src="https://user-images.githubusercontent.com/84471000/195155875-3bcda7d4-8b3c-4e56-8a6a-51acdc272a31.svg">
-   <img align="center" alt="HTML" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195156746-82de51ba-c2c5-4af2-9b25-9c8374fe6dc0.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195156749-00fb1a18-4690-44c9-9d6d-816825bdef85.svg">
-   <img align="center" alt="JavaScript" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195156744-8a21399b-f952-4765-b03c-c5feeb2c5fbe.svg">
-   <img align="center" alt="Angular" height="30" width="40" src="https://img.icons8.com/fluency/48/angularjs.png">
- </div>
-  
- <div align="center">
-  <h2>Backend<h2>
-  <img align="center" alt="Java" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195158572-419658f1-b6d3-41a3-821c-6b0bd80498a7.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://user-images.githubusercontent.com/84471000/195158713-09962cdf-ae41-42a4-9873-3bf810c05b2f.svg">
- </div>
- 
- <div align="center">
-  <img align="center" alt="pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/937094868164050955/937095462836637707/9.png">
-</div>
- 
-<div align="center"> 
-  <h2>Contato</h2>
-  <a href="https://instagram.com/jesscereja" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/JessCereja#0473" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lljessicall.jcs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jessica-c-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/JessCereja/JessCereja/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Profissional de tecnologia com experiência em **Suporte Técnico N1/N2 e atendimento ao cliente**, atualmente direcionando minha carreira para **Cloud Computing e infraestrutura**.
+
+Minha trajetória também passou pelo desenvolvimento web, experiência que ampliou minha compreensão sobre aplicações e hoje complementa minha atuação em suporte, troubleshooting e resolução de problemas.
+
+* ☁️ Aprofundando conhecimentos em **AWS, Linux e Cloud Computing**
+* 🌐 Formação em fundamentos de redes pela **Cisco Networking Academy**
+* 🎓 Tecnóloga em **Gestão da Tecnologia da Informação**
+* 🔧 Experiência com **Suporte Técnico, troubleshooting e atendimento multicanal**
+* 📍 Santos, SP — Brasil
+
+
+---
+
+## 🏅 Certificações & Badges
+
+* 🌐 **Cisco — Network Technician Career Path**
+  Formação voltada a suporte e infraestrutura de redes, troubleshooting, dispositivos e conectividade.
+
+* 🌐 **Cisco — Networking Basics**
+  Fundamentos de redes, protocolos, endereçamento IP, dispositivos e conectividade.
+
+* 🔐 **Cisco — Introduction to Cybersecurity**
+  Fundamentos de cibersegurança, ameaças, vulnerabilidades e proteção de dados e sistemas.
+
+
+🔗 [Ver minhas credenciais no Credly](https://www.credly.com/users/jessica-cristina-santos.4123449b)
+
+---
+
+## ☁️ Atualmente estudando
+
+* Amazon Web Services (AWS)
+* Cloud Computing
+* Linux
+* Redes de Computadores
+* Git & GitHub
+* Python
+* Automação e infraestrutura
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Cloud & Infraestrutura**
+
+`AWS` `Linux` `SSH` `Redes` `Cisco Packet Tracer`
+
+**Suporte & Atendimento**
+
+`Zendesk` `Freshdesk` `Jira` `Google Workspace`
+
+**Desenvolvimento & Automação**
+
+`Python` `Git` `GitHub` `HTML` `CSS` `JavaScript`
+
+---
+
+## 💻 Experiência em Tecnologia
+
+Minha principal experiência profissional em tecnologia é em **Suporte Técnico N1/N2**, atuando na investigação e resolução de problemas e no atendimento remoto aos usuários.
+
+Tenho experiência com:
+
+* Atendimento via chat, e-mail e telefone
+* Gestão e acompanhamento de chamados
+* Zendesk e Freshdesk
+* Troubleshooting e resolução de problemas
+* Acompanhamento de SLA
+* Atendimento simultâneo de múltiplas demandas
+* Orientação e suporte a usuários
+* Comunicação técnica de forma clara e acessível
+
+Minha experiência anterior com desenvolvimento web continua fazendo parte da minha trajetória e hoje funciona como uma base complementar para meus estudos em **Cloud e infraestrutura**.
+
+---
+
+## 🚀 Construindo agora
+
+Este GitHub acompanha uma nova etapa da minha trajetória profissional.
+
+Por aqui, vou documentar projetos, estudos e laboratórios relacionados a:
+
+`AWS` • `Linux` • `Redes` • `Python` • `Automação` • `Troubleshooting` • `Cloud Computing`
+
+---
+
+## 📫 Vamos nos conectar
+
+💼 [LinkedIn](https://www.linkedin.com/in/jessica-c-santos/)
+🏅 [Credly](https://www.credly.com/users/jessica-cristina-santos.4123449b)
+
+Estou aberta a oportunidades em **Suporte Técnico, Service Desk, Cloud Support** e posições de entrada em **Cloud Computing**.
+
